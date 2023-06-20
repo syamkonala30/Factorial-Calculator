@@ -1,7 +1,3 @@
-// Syam Konala
-// BMEN 1300-002
-// 11/29/2022
-
 #include <iostream>
 using namespace std;
 
